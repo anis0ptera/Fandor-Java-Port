@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="17" passed="17">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="844817" started-at="2016-07-16T22:23:04Z" finished-at="2016-07-16T22:37:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="844817" started-at="2016-07-16T22:23:04Z" finished-at="2016-07-16T22:37:09Z">
+      <class name="automationFramework.TestNG">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="beforeMethod" is-config="true" duration-ms="51228" started-at="2016-07-16T15:23:04Z" finished-at="2016-07-16T15:23:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="animatedFilm()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="animatedFilm" duration-ms="12123" started-at="2016-07-16T15:23:56Z" finished-at="2016-07-16T15:24:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- animatedFilm -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="afterMethod" is-config="true" duration-ms="8998" started-at="2016-07-16T15:24:08Z" finished-at="2016-07-16T15:24:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="beforeMethod" is-config="true" duration-ms="25554" started-at="2016-07-16T15:24:17Z" finished-at="2016-07-16T15:24:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="button()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="button" duration-ms="2731" started-at="2016-07-16T15:24:42Z" finished-at="2016-07-16T15:24:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- button -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="afterMethod" is-config="true" duration-ms="3793" started-at="2016-07-16T15:24:45Z" finished-at="2016-07-16T15:24:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="beforeMethod" is-config="true" duration-ms="29003" started-at="2016-07-16T15:24:49Z" finished-at="2016-07-16T15:25:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="castCrew()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="castCrew" duration-ms="1802" started-at="2016-07-16T15:25:18Z" finished-at="2016-07-16T15:25:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- castCrew -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="afterMethod" is-config="true" duration-ms="4131" started-at="2016-07-16T15:25:20Z" finished-at="2016-07-16T15:25:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="beforeMethod" is-config="true" duration-ms="26005" started-at="2016-07-16T15:25:24Z" finished-at="2016-07-16T15:25:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="clickLogo()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="clickLogo" duration-ms="6811" started-at="2016-07-16T15:25:50Z" finished-at="2016-07-16T15:25:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLogo -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="afterMethod" is-config="true" duration-ms="1213" started-at="2016-07-16T15:25:57Z" finished-at="2016-07-16T15:25:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="beforeMethod" is-config="true" duration-ms="32953" started-at="2016-07-16T15:25:58Z" finished-at="2016-07-16T15:26:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="featured()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="featured" duration-ms="74911" started-at="2016-07-16T15:26:31Z" finished-at="2016-07-16T15:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- featured -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="afterMethod" is-config="true" duration-ms="11484" started-at="2016-07-16T15:27:46Z" finished-at="2016-07-16T15:27:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="beforeMethod" is-config="true" duration-ms="36307" started-at="2016-07-16T15:27:57Z" finished-at="2016-07-16T15:28:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="festivals()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="festivals" duration-ms="2745" started-at="2016-07-16T15:28:34Z" finished-at="2016-07-16T15:28:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- festivals -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="afterMethod" is-config="true" duration-ms="6524" started-at="2016-07-16T15:28:36Z" finished-at="2016-07-16T15:28:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="beforeMethod" is-config="true" duration-ms="28175" started-at="2016-07-16T15:28:43Z" finished-at="2016-07-16T15:29:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="genres()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="genres" duration-ms="11466" started-at="2016-07-16T15:29:11Z" finished-at="2016-07-16T15:29:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- genres -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="afterMethod" is-config="true" duration-ms="5713" started-at="2016-07-16T15:29:22Z" finished-at="2016-07-16T15:29:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="beforeMethod" is-config="true" duration-ms="24200" started-at="2016-07-16T15:29:28Z" finished-at="2016-07-16T15:29:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="genresNeg()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="genresNeg" duration-ms="23205" started-at="2016-07-16T15:29:52Z" finished-at="2016-07-16T15:30:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- genresNeg -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="afterMethod" is-config="true" duration-ms="3853" started-at="2016-07-16T15:30:16Z" finished-at="2016-07-16T15:30:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="beforeMethod" is-config="true" duration-ms="28157" started-at="2016-07-16T15:30:19Z" finished-at="2016-07-16T15:30:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="joinUs()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="joinUs" duration-ms="64388" started-at="2016-07-16T15:30:48Z" finished-at="2016-07-16T15:31:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- joinUs -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="afterMethod" is-config="true" duration-ms="8721" started-at="2016-07-16T15:31:52Z" finished-at="2016-07-16T15:32:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="beforeMethod" is-config="true" duration-ms="36214" started-at="2016-07-16T15:32:01Z" finished-at="2016-07-16T15:32:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginPage()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="loginPage" duration-ms="3544" started-at="2016-07-16T15:32:37Z" finished-at="2016-07-16T15:32:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="afterMethod" is-config="true" duration-ms="2851" started-at="2016-07-16T15:32:40Z" finished-at="2016-07-16T15:32:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="beforeMethod" is-config="true" duration-ms="23459" started-at="2016-07-16T15:32:43Z" finished-at="2016-07-16T15:33:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="main()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="main" duration-ms="301" started-at="2016-07-16T15:33:07Z" finished-at="2016-07-16T15:33:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="afterMethod" is-config="true" duration-ms="2342" started-at="2016-07-16T15:33:07Z" finished-at="2016-07-16T15:33:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="beforeMethod" is-config="true" duration-ms="25551" started-at="2016-07-16T15:33:09Z" finished-at="2016-07-16T15:33:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="newReleases()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="newReleases" duration-ms="9192" started-at="2016-07-16T15:33:35Z" finished-at="2016-07-16T15:33:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newReleases -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="afterMethod" is-config="true" duration-ms="4736" started-at="2016-07-16T15:33:44Z" finished-at="2016-07-16T15:33:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="beforeMethod" is-config="true" duration-ms="27276" started-at="2016-07-16T15:33:49Z" finished-at="2016-07-16T15:34:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="playButton()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="playButton" duration-ms="737" started-at="2016-07-16T15:34:16Z" finished-at="2016-07-16T15:34:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playButton -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="afterMethod" is-config="true" duration-ms="1169" started-at="2016-07-16T15:34:17Z" finished-at="2016-07-16T15:34:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="beforeMethod" is-config="true" duration-ms="25893" started-at="2016-07-16T15:34:18Z" finished-at="2016-07-16T15:34:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="readMore()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="readMore" duration-ms="8229" started-at="2016-07-16T15:34:44Z" finished-at="2016-07-16T15:34:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readMore -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="afterMethod" is-config="true" duration-ms="8008" started-at="2016-07-16T15:34:52Z" finished-at="2016-07-16T15:35:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="beforeMethod" is-config="true" duration-ms="29778" started-at="2016-07-16T15:35:00Z" finished-at="2016-07-16T15:35:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="related()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="related" duration-ms="21381" started-at="2016-07-16T15:35:30Z" finished-at="2016-07-16T15:35:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- related -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="afterMethod" is-config="true" duration-ms="2177" started-at="2016-07-16T15:35:51Z" finished-at="2016-07-16T15:35:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="beforeMethod" is-config="true" duration-ms="26021" started-at="2016-07-16T15:35:54Z" finished-at="2016-07-16T15:36:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="signupPage()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="signupPage" duration-ms="4248" started-at="2016-07-16T15:36:20Z" finished-at="2016-07-16T15:36:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupPage -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="afterMethod" is-config="true" duration-ms="5824" started-at="2016-07-16T15:36:24Z" finished-at="2016-07-16T15:36:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="beforeMethod" is-config="true" duration-ms="34255" started-at="2016-07-16T15:36:30Z" finished-at="2016-07-16T15:37:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="trailerButton()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="trailerButton" duration-ms="1373" started-at="2016-07-16T15:37:04Z" finished-at="2016-07-16T15:37:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- trailerButton -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.TestNG@1aeed2f]" name="afterMethod" is-config="true" duration-ms="3843" started-at="2016-07-16T15:37:05Z" finished-at="2016-07-16T15:37:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- automationFramework.TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
